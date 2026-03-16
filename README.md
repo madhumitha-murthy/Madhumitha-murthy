@@ -85,15 +85,6 @@ I'm a final-year MSc student at NTU specialising in ML and signal processing, wi
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhumitha-murthy&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-murthy&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to ML Engineer, NLP Engineer, and Data Scientist roles in Singapore · Available Aug 2026</i>
 </p>
