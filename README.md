@@ -18,7 +18,7 @@
  - 🔬 Research Attachment at **I²R, A*STAR** — digital twin simulation for 5G vehicle sensing and localization
  - 📄 **5 publications** at IEEE ISCAS, npj Wireless, ACL, EACL, and CEUR
  - 🏆 **1st place** at Zoho Cliqtrix 2024 Bot-Building Competition (prize: ₹1,00,000)
- - 🎯 Actively looking for **ML Engineer / NLP Engineer / Data Scientist** roles in Singapore (graduating Aug 2026)
+ - 🎯 Actively looking for **ML Engineer / NLP Engineer / Data Scientist** roles in Singapore (graduating June 2026)
 
  ---
 
@@ -79,5 +79,5 @@
 
  ---
 
- *Open to ML Engineer, NLP Engineer, and Data Scientist roles in Singapore · Available Aug 2026*
+ *Open to ML Engineer, NLP Engineer, and Data Scientist roles in Singapore · Available June 2026*
 
