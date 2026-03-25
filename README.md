@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=200&section=header&text=Madhumitha%20Murthy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20NLP%20%C2%B7%20LLMs%20%C2%B7%20Production%20ML&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:1e40af&height=200&section=header&text=Madhumitha%20Murthy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20NLP%20%C2%B7%20LLMs%20%C2%B7%20Production%20ML&descAlignY=58&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+production-ready+ML+systems+%F0%9F%9A%80;RAG+Pipelines+%C2%B7+LLM+Fine-Tuning+%C2%B7+NLP;5+Peer-Reviewed+Publications+%F0%9F%93%84;MSc+@+NTU+Singapore+%C2%B7+Research+@+A*STAR" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+production-ready+ML+systems+%F0%9F%9A%80;RAG+Pipelines+%C2%B7+LLM+Fine-Tuning+%C2%B7+NLP;5+Peer-Reviewed+Publications+%F0%9F%93%84;MSc+@+NTU+Singapore+%C2%B7+Research+@+A*STAR" alt="Typing SVG" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhumitha%20Murthy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumitha-murthy-4801b7223)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://madhumitha-murthy.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1e40af?style=for-the-badge&logo=vercel&logoColor=white)](https://madhumitha-murthy.github.io/Portfolio)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhumit007@e.ntu.edu.sg)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-5%20Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4jVqyt0AAAAJ)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhumitha-murthy&color=00e5ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=madhumitha-murthy&color=1e3a8a&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -84,7 +84,7 @@ madhumitha = {
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-0057B7?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-00e5ff?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-1e40af?style=flat-square)
 ![LoRA](https://img.shields.io/badge/LoRA%2FPEFT-Parameter%20Efficient-7c3aed?style=flat-square)
 
 **MLOps & Deployment**
@@ -135,7 +135,7 @@ madhumitha = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:1e3a8a,100:0d1117&height=100&section=footer"/>
 
 *📍 Singapore · Open to ML Engineer and NLP Engineer roles · Available June 2026*
 
