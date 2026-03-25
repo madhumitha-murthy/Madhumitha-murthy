@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Madhumitha+Murthy+%F0%9F%91%8B;ML+Engineer+%C2%B7+NLP+%C2%B7+LLMs;Building+production-ready+ML+systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=200&section=header&text=Madhumitha%20Murthy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20NLP%20%C2%B7%20LLMs%20%C2%B7%20Production%20ML&descAlignY=58&descSize=18" />
 
 <br/>
 
-**MSc Signal Processing & ML · NTU Singapore · Research @ I²R A\*STAR**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+production-ready+ML+systems+%F0%9F%9A%80;RAG+Pipelines+%C2%B7+LLM+Fine-Tuning+%C2%B7+NLP;5+Peer-Reviewed+Publications+%F0%9F%93%84;MSc+@+NTU+Singapore+%C2%B7+Research+@+A*STAR" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhumitha%20Murthy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumitha-murthy-4801b7223)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://madhumitha-murthy.github.io/Portfolio)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhumit007@e.ntu.edu.sg)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4jVqyt0AAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-5%20Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4jVqyt0AAAAJ)
 
 <br/>
 
@@ -21,9 +21,7 @@
 
 ---
 
-## 🚀 About Me
-
-I build **end-to-end ML systems** — from raw data and model training through to deployment and monitoring in production.
+## 🧠 About Me
 
 ```python
 madhumitha = {
@@ -41,12 +39,26 @@ madhumitha = {
 
 ## 🏆 Highlights
 
-| | |
-|---|---|
-| 📄 **5 Peer-Reviewed Publications** | IEEE ISCAS · npj Wireless (Nature) · ACL · EACL · CEUR |
-| 🥇 **1st Place — Zoho Cliq-Trix 2024** | Out of 70,000 participants · ₹1,00,000 prize |
-| 🌍 **3rd Place Globally — EACL 2024** | Fake News Detection · Macro-F1: 0.84 |
-| 🔬 **A\*STAR Research** | 5G ISAC Digital Twin Simulation · IEEE + Nature publications |
+<div align="center">
+
+| 🎖️ | Achievement |
+|:---:|---|
+| 📄 | **5 Peer-Reviewed Publications** — IEEE ISCAS · npj Wireless (Nature) · ACL · EACL · CEUR |
+| 🥇 | **1st Place — Zoho Cliq-Trix 2024** — Out of 70,000 participants · ₹1,00,000 prize · Published to marketplace |
+| 🌍 | **3rd Place Globally — EACL 2024** — Fake News Detection · Macro-F1: 0.84 |
+| 🔬 | **A\*STAR Research** — 5G ISAC Digital Twin · First-authored IEEE + co-authored Nature publication |
+
+</div>
+
+---
+
+## ⚡ Currently Building
+
+> 🔭 Exploring agentic RAG systems and multi-hop reasoning over documents
+>
+> 📡 Extending 5G ISAC simulation for multi-vehicle tracking scenarios
+>
+> 🎯 Actively applying for ML Engineer / NLP Engineer roles in Singapore
 
 ---
 
@@ -94,17 +106,17 @@ madhumitha = {
 
 ## 📌 Featured Projects
 
-### 🔥 Production ML
+### 🔥 Production ML Systems
 
-| Project | What it does | Results |
+| Project | Description | Results |
 |---------|-------------|---------|
 | [📄 RAG Document Q&A API](https://github.com/madhumitha-murthy/rag-document-qa) | PDF → section-aware chunking → FAISS → Groq Llama 3.3-70B → FastAPI · AWS S3 + EC2 · MLflow | **64% recall · 0.63s latency** |
-| [⚡ LLM Fine-Tuning with LoRA](https://github.com/madhumitha-murthy/llm-finetuning-lora) | DistilBERT + LoRA/PEFT on FinancialPhraseBank · deployed FastAPI on AWS EC2 · MLflow A/B tracking | **F1=0.846 · 98.7% param reduction** |
+| [⚡ LLM Fine-Tuning with LoRA](https://github.com/madhumitha-murthy/llm-finetuning-lora) | DistilBERT + LoRA/PEFT on FinancialPhraseBank · FastAPI on AWS EC2 · MLflow A/B tracking | **F1=0.846 · 98.7% param reduction** |
 | [📈 Time-Series Anomaly Detection](https://github.com/madhumitha-murthy/timeseries-anomaly-detection) | LSTM Autoencoder vs Isolation Forest on NASA SMAP · FastAPI REST endpoint · Docker | **F1=0.73 · ~12ms latency** |
 
-### 🔬 Research
+### 🔬 Research Projects
 
-| Project | What it does | Results |
+| Project | Description | Results |
 |---------|-------------|---------|
 | [📡 5G ISAC Digital Twin](https://github.com/madhumitha-murthy/ISAC-Intelligent-Transportation-) | Physics-accurate 3D urban simulation for vehicle sensing using NVIDIA Sionna ray tracing | **IEEE ISCAS 2025 · npj Wireless** |
 | [🌐 Fake News Detection](https://github.com/madhumitha-murthy/fake_news_detection) | Multilingual misinformation detection in Dravidian languages — XLM-RoBERTa, mBERT, ALBERT | **Macro-F1: 0.84 · 3rd globally** |
@@ -121,8 +133,9 @@ madhumitha = {
 
 ---
 
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=100&section=footer"/>
 
 *📍 Singapore · Open to ML Engineer and NLP Engineer roles · Available June 2026*
 
