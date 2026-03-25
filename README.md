@@ -121,16 +121,6 @@ madhumitha = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=madhumitha-murthy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-murthy&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 
