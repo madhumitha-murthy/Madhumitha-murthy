@@ -1,84 +1,139 @@
-# Hi, I'm Madhumitha Murthy 👋
+<div align="center">
 
-**ML Engineer · NLP · Production ML Systems**
-MSc in Signal Processing & Machine Learning · Nanyang Technological University, Singapore
-Research Attachment @ I²R, A*STAR · 5 Peer-Reviewed Publications
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Madhumitha+Murthy+%F0%9F%91%8B;ML+Engineer+%C2%B7+NLP+%C2%B7+LLMs;Building+production-ready+ML+systems" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhumitha%20Murthy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumitha-murthy-4801b7223)
-[![Email](https://img.shields.io/badge/Email-madhumit007@e.ntu.edu.sg-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:madhumit007@e.ntu.edu.sg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00e5ff?style=flat)](https://madhumitha-murthy.github.io/Portfolio)
-[![Location](https://img.shields.io/badge/Based%20in-Singapore-EF3340?style=flat)](https://www.google.com/maps/place/Singapore)
+<br/>
+
+**MSc Signal Processing & ML · NTU Singapore · Research @ I²R A\*STAR**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhumitha%20Murthy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumitha-murthy-4801b7223)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://madhumitha-murthy.github.io/Portfolio)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhumit007@e.ntu.edu.sg)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4jVqyt0AAAAJ)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=madhumitha-murthy&color=00e5ff&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I build end-to-end ML systems — RAG pipelines, fine-tuned LLMs, anomaly detection, and 5G sensing simulations — production-ready with FastAPI, Docker, AWS, and MLflow.
+I build **end-to-end ML systems** — from raw data and model training through to deployment and monitoring in production.
 
-- 🔬 Research Attachment at **I²R, A*STAR** — 5G ISAC digital twin simulation for vehicle sensing and localisation
-- 📄 **5 publications** at IEEE ISCAS, npj Wireless, ACL, EACL, and CEUR
-- 🏆 **1st place** at Zoho Cliq-Trix 2024 out of 70,000 participants (₹1,00,000 prize)
-- 🎯 Open to **ML Engineer / NLP Engineer** roles in Singapore — graduating June 2026
+```python
+madhumitha = {
+    "role"        : "ML Engineer · NLP Engineer",
+    "education"   : "MSc Signal Processing & ML @ NTU Singapore (Jun 2026)",
+    "research"    : "Research Attachment @ I²R, A*STAR",
+    "publications": 5,  # IEEE ISCAS · npj Wireless · ACL · EACL · CEUR
+    "focus"       : ["RAG Pipelines", "LLM Fine-Tuning", "NLP", "5G ISAC"],
+    "looking_for" : "ML Engineer / NLP Engineer roles in Singapore",
+    "available"   : "June 2026"
+}
+```
 
 ---
 
-## Tech Stack
+## 🏆 Highlights
+
+| | |
+|---|---|
+| 📄 **5 Peer-Reviewed Publications** | IEEE ISCAS · npj Wireless (Nature) · ACL · EACL · CEUR |
+| 🥇 **1st Place — Zoho Cliq-Trix 2024** | Out of 70,000 participants · ₹1,00,000 prize |
+| 🌍 **3rd Place Globally — EACL 2024** | Fake News Detection · Macro-F1: 0.84 |
+| 🔬 **A\*STAR Research** | 5G ISAC Digital Twin Simulation · IEEE + Nature publications |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **ML / Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **NLP & LLMs**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-blue?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-XLM--RoBERTa%20%7C%20mBERT%20%7C%20DistilBERT-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-0057B7?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-00e5ff?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA%2FPEFT-Parameter%20Efficient-7c3aed?style=flat-square)
 
 **MLOps & Deployment**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Signal Processing & Simulation**
 
-![NVIDIA Sionna](https://img.shields.io/badge/NVIDIA%20Sionna-Ray%20Tracing-76B900?style=flat&logo=nvidia&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![NVIDIA Sionna](https://img.shields.io/badge/NVIDIA%20Sionna-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+</div>
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-| Project | Description | Stack | Results |
-|---------|-------------|-------|---------|
-| [📄 RAG Document Q&A API](https://github.com/madhumitha-murthy/rag-document-qa) | PDF ingestion → FAISS semantic search → Groq Llama 3.3-70B grounded answers | LangChain, FAISS, FastAPI, AWS, MLflow | 64% keyword recall · 0.63s latency |
-| [⚡ LLM Fine-Tuning with LoRA](https://github.com/madhumitha-murthy/llm-finetuning-lora) | DistilBERT fine-tuned on FinancialPhraseBank with LoRA/PEFT | HuggingFace, LoRA, FastAPI, AWS | F1=0.846 · 98.7% param reduction |
-| [📈 Time-Series Anomaly Detection](https://github.com/madhumitha-murthy/timeseries-anomaly-detection) | LSTM Autoencoder vs Isolation Forest on NASA SMAP sensor data | PyTorch, scikit-learn, FastAPI, Docker | F1=0.73 · ~12ms latency |
-| [📡 5G ISAC Digital Twin](https://github.com/madhumitha-murthy/ISAC-Intelligent-Transportation-) | Vehicle sensing & localisation using 3D ray-tracing simulation | NVIDIA Sionna, Blender, Python | IEEE ISCAS 2025 · npj Wireless |
-| [🌐 Fake News Detection](https://github.com/madhumitha-murthy/fake_news_detection) | Multilingual misinformation detection in Dravidian languages | XLM-RoBERTa, mBERT, HuggingFace | Macro-F1: 0.84 · 3rd place globally |
+### 🔥 Production ML
 
----
+| Project | What it does | Results |
+|---------|-------------|---------|
+| [📄 RAG Document Q&A API](https://github.com/madhumitha-murthy/rag-document-qa) | PDF → section-aware chunking → FAISS → Groq Llama 3.3-70B → FastAPI · AWS S3 + EC2 · MLflow | **64% recall · 0.63s latency** |
+| [⚡ LLM Fine-Tuning with LoRA](https://github.com/madhumitha-murthy/llm-finetuning-lora) | DistilBERT + LoRA/PEFT on FinancialPhraseBank · deployed FastAPI on AWS EC2 · MLflow A/B tracking | **F1=0.846 · 98.7% param reduction** |
+| [📈 Time-Series Anomaly Detection](https://github.com/madhumitha-murthy/timeseries-anomaly-detection) | LSTM Autoencoder vs Isolation Forest on NASA SMAP · FastAPI REST endpoint · Docker | **F1=0.73 · ~12ms latency** |
 
-## Publications
+### 🔬 Research
 
-- **IEEE ISCAS 2025** *(Accepted)* — ISAC for Intelligent Transportation: Ray-Tracing, Clutter Cancellation, and Sensing-Aided Beamforming
-- **npj Wireless Technology** *(Accepted)* — Integrated Communication and Sensing: Algorithms & 3D Simulation Insights
-- **EACL 2024** — [Fake News Detection Using Deep Learning Models](https://aclanthology.org/2024.dravidianlangtech-1.25)
-- **FIRE 2023** — [Sarcasm Detection in Dravidian Languages using Transformer Models](https://ceur-ws.org/Vol-3681/T5-9.pdf)
-- **ACL 2023** — [Transformer Models to Detect Levels of Depression from Social Media Text](https://aclanthology.org/2023.ltedi-1.0)
+| Project | What it does | Results |
+|---------|-------------|---------|
+| [📡 5G ISAC Digital Twin](https://github.com/madhumitha-murthy/ISAC-Intelligent-Transportation-) | Physics-accurate 3D urban simulation for vehicle sensing using NVIDIA Sionna ray tracing | **IEEE ISCAS 2025 · npj Wireless** |
+| [🌐 Fake News Detection](https://github.com/madhumitha-murthy/fake_news_detection) | Multilingual misinformation detection in Dravidian languages — XLM-RoBERTa, mBERT, ALBERT | **Macro-F1: 0.84 · 3rd globally** |
 
 ---
 
-*Open to ML Engineer and NLP Engineer roles in Singapore · Available June 2026*
+## 📄 Publications
+
+- 📡 **IEEE ISCAS 2025** *(Accepted)* — ISAC for Intelligent Transportation: Ray-Tracing, Clutter Cancellation, and Sensing-Aided Beamforming
+- 🌿 **npj Wireless Technology** *(Accepted, Nature Portfolio)* — Integrated Communication and Sensing: Algorithms & 3D Simulation Insights
+- 📰 **EACL 2024** — [Fake News Detection Using Deep Learning Models in Dravidian Languages](https://aclanthology.org/2024.dravidianlangtech-1.25)
+- 📰 **FIRE 2023** — [Sarcasm Detection in Dravidian Languages using Transformer Models](https://ceur-ws.org/Vol-3681/T5-9.pdf)
+- 📰 **ACL 2023** — [Transformer Models to Detect Levels of Depression from Social Media Text](https://aclanthology.org/2023.ltedi-1.0)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=madhumitha-murthy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-murthy&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*📍 Singapore · Open to ML Engineer and NLP Engineer roles · Available June 2026*
+
+</div>
